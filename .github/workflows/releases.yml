@@ -33,4 +33,4 @@ jobs:
           WITH_V: true
           DEFAULT_BUMP: minor
           DRY_RUN: true
-          INITIAL_VERSION: v1.0
+          INITIAL_VERSION: 0.4.0
